@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="173px" viewBox="0 0 26 173" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="gx" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        
+        <mask id="theMask">
+            <rect id="msk" x="0" y="35" height="86.5" width="26" fill="white"/>
+        </mask>
+
+        <image id="gx2" x="0" y="0" width="26" height="173" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAACtCAYAAACuhW8DAAAAAXNSR0IArs4c6QAABXJJREFUeAHtmMuWFEUQhrtHVET0IDtc6Jq1Wx6FNRteyafiCdwoCngHRNRp4supLzsqq6p7DgtXEecEkZVx+SP+zK5uZr87I4fDYX8mpLn3+/3hVNyiSCqsD+t6qxYgAjU7As8KTCAW1l5M1bGz+Kn45eTHCtj2MlhPTCAWxH4Q6jNrwWPZi/4XawqP2kAFu0FGEoqq+CiOugYIP2JhgNB/J8sawS+drcAuTWMhCqMfTfbDyTphPLbiAvwTz/iwiBTuo/aOqSimOIkTAPLxpKwFzRNR+G3o35P1KJxEwKuJIkjuKeIkN2OtfhJrQJmMRhCmEYT9v9gMobi0CtyBCGAzTwPIp6G3JguYU0oZk7wOpTnyBdFP4+2spI4gqcsTAfTZpA/CPgz9IhR5Gvpt6JNQp6QolwJlD8A21UW6CADhhAY6ZwKBvoz1o1BBYrm7F/p42qMZJocFz5JaDSRsv6qs2cTpRACRTJFvQjmjUe7Gxv3Q26FrQDR/NVEsEB6kDjC6cioKfB26JV+FgxjP0AvTQWCNB8QRAclTMQVFPg/dkjvhAITYkTbqziaK57bBpmCelVecmDUBZDwb2XGAfkYiYwnKUwHYE2I9Cj5iUM53ARJ7HYj1CJYBuaZbwmcHAJozZ9EYjlEMEpgYPhdbgo8Y4q1njZ6jgw06Q7BjIK+aLeHtMIq1+r5Ao8NnLJ/2Nz1jueAdR5yxrmeRArFpgBYAlffZluDjDIk1l1jWyIGvCYEMMFgALEVekbEhL2OfmAxmHcF2F37VpiIGCXIKiIsArYKQY77Nt9LnJqIAxf5o0ct/oI0vP+IymCDHiVKuTrsyGUvXazcPIBpBjTdfkGadKOL6QeIwmGQL+Q1KrMLZMZFA5tm0tn/AGmokZBCSBKLY2oXgItgIlhxrdJDY60CsdRgoCAW2gDi7PBE5q2BSN4LwTFIG+zOeR2HPiQSRvlmsQGw6yQhCx1yENaDfYn9rIpuPkCN1bCp59DzV2hX/NZLWgJyq1x0nsgsCBaEQStFR2Bupswax7fXDYgSyE61nBBA0ZQHg91BozWDkZLB4XAK1zfjHiSwA0M86J8uZsW8MAOQJwrpLmyi97wham0bqKKY4DT4BBROEek0ydWzkbggmEaUQX3D55nnj8Blnk9YJ15VkIJ0GkwwtdozN5/RLPHM++oklh3xrYZtkIDYMyNMIRlGKK5yZQIIIJJixi1s3AmUQiuYL8eIEkAAnJ8rUZfoAorjyPBZO5Dk5idbYxUQ6CBQkT5WBfkxAxkqdzFiv/fDrD7EgIE8kCD8Q6f6nUIX/H3kR8kRO098KJFAgi52sgfFLlOII301cdamjITRPFI9HOQVEEkq3/twVKF8E/BnEiWL7KB2ItwP/VQ8ZpwGEYvx65SXK7wcvwtpEstKKRWyTDuRGWAIEo1M+a/knMiAobwqncSJZmIFE3MkzIgkQimQgLsQp6t5rIsAyCEWeheYbRyNOJBPXnojAESS2GqV8fgDjfATJQNeayCA6YxLAFHzsfx/6QyhA+EclhtiZbF0GixqcG4A2NE8B2CZtFNkCIimLQFwOJvKM7F4gG8TOZAvIBIIFoShA34VyTnkCAbHI7PXDRr5RPPu3Oz87+LO6b8cC2Iz2Mv08aHXXJmp4zXv1D8mCCaDbwu77rL/bc0AkOrXFxmeKCWBMB3Bhks/NTn/xcs+Y0Vp0tO1PmyZrTfa52wHM/TFekOYfz8Uk7JiYfX29Adr9pwB6UC2KgWKgGCgGioFioBgoBoqBYqAYKAaKgWKgGCgGioFioBgoBoqBYqAYKAaKgWKgGCgGioFioBgoBoqBYqAYKAaKgWKgGCgGioFioBgoBoqB/4WBd49w0WT0zH2oAAAAAElFTkSuQmCC"></image>
+        <image id="gx1" x="0" y="0" width="26" height="173" mask="url(#theMask)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAACtCAYAAACuhW8DAAAAAXNSR0IArs4c6QAAAolJREFUeAHtml1qwzAQhJPSc/QAPUAf+tTj97Fn6DH65+qDDJgkjjULu5SyC0KqLevzzK5lE3o4dLQD7UCpA8uyPI32NtrraA8O/N6ZPOa+jPZ4uuZ59O+n8W53tzvjcsLx8tD+kQho2V/2ckYEdLnKxJEoyFblggDYEARHQDLKArrlDcQC6K4ioJ8IzLVOimxVLmgNWI/l0GbvgjYX2jvh5ggV5MiOiCLLMt1RBMSmCswCuiAbIEWRHFlKoiDZpuun+4giVZ2lzAWhwAJIchkoUnW6SUtZmSIXhAo1KZvqI9Z9R2CuIu6+TNGUVeeTooqk7Hy9zb8jOfoaq9nfDS5IABXEpoLzEy6I660HVUA3R0BQZe/iLogbLFGkHNmwiCIKgbBgLkg5+j8gcsQDm151WFeSIxSVgKSoxDpgamM4F255l1mnqkMG4+lwFSlHABhPx58Fra1LVSRQenkD+hwNUGoxsDg7Q4kibUHpiti9S3aGjwEi0hWpGNLLW6BURRQCOSJSQSyOIqLEOiDpiqg6vtlTQeSopBiUo/QtqLTqSnYGFJWCSt5HJVWn8h4O5j5HlHf5+wh10+F+16nq0h9YWVdSdXofpb4mZB25Sc2RrAOUqmgNYjwdbtWxuHaGEkUlVVeiCLtUbek5Eig9RyWgtXWpikpBKoJURUDKciRF09sPE90tiGtkmXqO7YYLYnEpskDuL/kCWRDkuiBZZINc6wABURN4t3cV2QDdgQvSdXYftc4GlSmyQMfjUTmit8ICrVc+QdeHbo7DoJurXjnZoCumJB4a/9HJB2RHO9AOtAPtQDvQDrQD7UA70A60A+1AO9AOtAPtQDvQDrQD7UA70A60A+1AmQO/Qjr9/G1boj0AAAAASUVORK5CYII="></image>
+    </g>
+    <animate attributeName="opacity"
+            attributeType="XML"
+            xlink:href="#gx"
+            values="0;1;1;0"
+            keyTimes="0;0.3;0.6;1"
+            dur="1.5s"
+            begin="0s"
+            repeatCount="indefinite"/>
+<!-- 
+    <animate attributeName="opacity"
+            attributeType="XML"
+            xlink:href="#gx2"
+            values="0;1;1;0"
+            keyTimes="0;0.3;0.6;1"
+            dur="2s"
+            begin="0s"
+            repeatCount="indefinite"/> -->
+
+    <animateTransform attributeName="transform"
+                    attributeType="XML"
+                    type="translate"
+                    xlink:href="#gx2"
+                    values="0 35;0 0;0 0"
+                    keyTimes="0;0.7;1"
+                    dur="1.5s"
+                    begin="0"
+                    calcMode="spline"  
+                    keySplines=".42,.51,.62,.93;0 0 1 1" 
+                    repeatCount="indefinite"/>
+
+        <!-- <animate attributeName="opacity"
+            attributeType="XML"
+            xlink:href="#gx3"
+            values="0;1;1;0"
+            keyTimes="0;0.3;0.8;1"
+            dur="3s"
+            begin="1.5s"
+            repeatCount="indefinite"/>
+
+    <animateTransform attributeName="transform"
+                    attributeType="XML"
+                    type="translate"
+                    xlink:href="#gx3"
+                    values="0 35;0 0;0 0"
+                    keyTimes="0;0.7;1"
+                    dur="3s"
+                    begin="1.5s"
+                    calcMode="spline"  
+                    keySplines=".42,.51,.62,.93;0 0 1 1" 
+                    repeatCount="indefinite"/> -->
+</svg>
